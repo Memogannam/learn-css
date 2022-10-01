@@ -1,0 +1,18 @@
+.para{
+  font-size: 25px;
+  color: blue;
+}
+#impo{
+  color: rgb(219, 17, 17);
+  font-weight: bold;
+  text-decoration: underline ;
+}
+.impo{
+  color: rgb(25, 169, 34);
+  text-decoration: underline;
+}
+#unimpo{
+  color: rgb(161, 52, 52);
+  font-weight: bold;
+  text-decoration: underline;
+    }
